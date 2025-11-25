@@ -1,5 +1,5 @@
 ## Exp. No. 4
-**Date:**  
+**Date:**  **24.10.2025**
 
 ## RC INTEGRATOR AND RC DIFFERENTIATOR
 <img width="486" height="664" alt="image" src="https://github.com/user-attachments/assets/9cd74d70-fbc8-41a1-9297-ac8f65775583" />
@@ -22,12 +22,24 @@
 
 # Tabulation
 
+![WhatsApp Image 2025-11-25 at 22 04 13_1324c934](https://github.com/user-attachments/assets/a5c7f2ed-762c-42a2-99cf-638ecf6241c7)
+
 
 # Graph
+
+![WhatsApp Image 2025-11-25 at 22 04 12_4516a416](https://github.com/user-attachments/assets/7c75e1ff-f740-4499-b424-3e2c8e2563ed)
+
+![WhatsApp Image 2025-11-25 at 22 04 13_86f14187](https://github.com/user-attachments/assets/44ba5a21-7c09-448c-b3a9-95d8f327d45e)
 
 
 # Sample images 
 
+<img width="373" height="448" alt="image" src="https://github.com/user-attachments/assets/96db7758-839e-45df-9da8-d6a0a78a2904" />
+
+<img width="426" height="452" alt="image" src="https://github.com/user-attachments/assets/7438904e-e387-4c2b-b005-5366593b41e3" />
+
 
 # Result
+
+![WhatsApp Image 2025-11-25 at 22 04 13_322c012d](https://github.com/user-attachments/assets/a16ae784-9a95-4d17-af9f-d3babe89078a)
 
