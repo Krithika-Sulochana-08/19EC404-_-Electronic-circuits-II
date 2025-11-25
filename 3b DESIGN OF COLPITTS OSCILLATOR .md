@@ -1,5 +1,5 @@
 ## Exp. No. 3(b)
-**Date:**  
+**Date:** **17.10.2025**
 
 ## DESIGN OF COLPITTS OSCILLATOR 
 <img width="524" height="707" alt="image" src="https://github.com/user-attachments/assets/0c63bf2d-f37a-46bf-a132-aec6a8f6dbb7" />
@@ -13,19 +13,22 @@
 
 
 # Tabulation
-| Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
-|------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+
+<img width="490" height="194" alt="image" src="https://github.com/user-attachments/assets/009eca6a-3f01-492d-9d30-1c21fe2352a2" />
+
 
 # Graph
+
+![WhatsApp Image 2025-11-25 at 22 00 33_3fbe5139](https://github.com/user-attachments/assets/7467a696-2d55-4552-9fce-0856a63d2b17)
 
 
 # Sample images 
 
+<img width="392" height="455" alt="image" src="https://github.com/user-attachments/assets/1703a953-0ae8-4ece-95c3-b9dc5a31523c" />
 
 # Result
 
 Thus, the **COLPITTS OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency:**  **3.2 MHz**
+- **(ii) Practical Frequency:**   **3.51 MHz**
