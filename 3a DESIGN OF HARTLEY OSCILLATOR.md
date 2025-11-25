@@ -1,5 +1,5 @@
 ## Exp. No. 3(a)
-**Date:**  
+**Date:**  **10.10.2025**
 
 ## DESIGN OF HARTLEY OSCILLATOR
 <img width="999" height="444" alt="image" src="https://github.com/user-attachments/assets/6e423083-e598-4fbb-b42a-bcb4f4608640" />
@@ -14,14 +14,14 @@
 
 
 # Tabulation
-| Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
-|------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+<img width="412" height="142" alt="image" src="https://github.com/user-attachments/assets/2e93ff39-84f4-46ed-b31e-27d710ac5606" />
+
 
 # Graph
-
+![WhatsApp Image 2025-11-25 at 21 57 12_f8c153fa](https://github.com/user-attachments/assets/b841ee69-3bc0-49de-9c42-7747c72d3d59)
 
 # Sample images 
+<img width="401" height="622" alt="image" src="https://github.com/user-attachments/assets/da41cac0-e187-44cf-9f31-0f955098b1c8" />
 
 
 # Result
